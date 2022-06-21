@@ -1,2 +1,3 @@
 # Recursion-Programs
-//contains recursion programs for practice and learning
+Strivers Recursion playlist programs solutions
+Contains programs that might help to have good practice on recursion
